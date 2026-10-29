@@ -1,7 +1,6 @@
 # ULP-Extractor-by-Captain
 ULP Extractor by Captain
 
-
 The **ULP Extractor by Captain** is a tool designed to extract credentials (such as emails and passwords) from text files, typically used for extracting account information that is in a specific format. The tool is likely aimed at processing text files, which could contain data like login credentials, and organizing or filtering them based on certain domains.
 
 Here's a breakdown of what the tool does:
